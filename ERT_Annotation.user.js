@@ -5,7 +5,7 @@
 // @description Paragon New version Standard ERT Annotation
 // @include     https://paragon-na.amazon.com/*
 // @include     https://paragon-eu.amazon.com/*
-// @version     1.7
+// @version     1.8
 // @grant       none
 // @updateURL	https://github.com/wolfiecr/ERT/raw/main/ERT_Annotation.user.js
 // @downloadURL https://github.com/wolfiecr/ERT/raw/main/ERT_Annotation.user.js
