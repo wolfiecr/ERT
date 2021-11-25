@@ -7,8 +7,8 @@
 // @include     https://paragon-eu.amazon.com/*
 // @version     1.7
 // @grant       none
-// @updateURL	https://drive.corp.amazon.com/documents/rverfra@/ERT/ERT_Annotation.user.js
-// @downloadURL https://drive.corp.amazon.com/documents/rverfra@/ERT/ERT_Annotation.user.js?download=true
+// @updateURL	https://github.com/wolfiecr/ERT/raw/main/ERT_Annotation.user.js
+// @downloadURL https://github.com/wolfiecr/ERT/raw/main/ERT_Annotation.user.js
 // Feedback		rverfra@amazon.com
 // Updated By   rverfra@amazon.com
 // ==/UserScript==
