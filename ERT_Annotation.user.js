@@ -9,7 +9,7 @@
 // @grant       none
 // @updateURL	https://github.com/wolfiecr/ERT/raw/main/ERT_Annotation.user.js
 // @downloadURL https://github.com/wolfiecr/ERT/raw/main/ERT_Annotation.user.js
-// Feedback		rverfra@amazon.com
+// Feedback	rverfra@amazon.com
 // Updated By   rverfra@amazon.com
 // ==/UserScript==
 
